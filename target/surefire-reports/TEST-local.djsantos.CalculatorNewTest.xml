@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="local.djsantos.ExceptionTest" time="0.068" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="local.djsantos.CalculatorNewTest" time="0" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2020.2.1"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -64,7 +64,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="local.djsantos.ExceptionTest" name="testOutOfBounds" time="0"/>
-  <testcase classname="local.djsantos.ExceptionTest" name="testExceptionMessage" time="0.043"/>
-  <testcase classname="local.djsantos.ExceptionTest" name="shouldTestExceptionMessage" time="0.025"/>
+  <testcase classname="local.djsantos.CalculatorNewTest" name="shouldSumTwoValues" time="0"/>
 </testsuite>
